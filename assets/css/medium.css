@@ -27,7 +27,7 @@ pre {
     font-size: 14px;
     white-space: pre;
     overflow: auto;
-    background: #fff;
+    background: #f2efe5;
     border-radius: 0px;
     line-height: 1.6;
     color: #333;
@@ -317,7 +317,7 @@ span.post-read-more a:hover {
     margin-top: 50px;
     margin-bottom: 62px;
     position: relative;
-    background: #fff;
+    background: #f2efe5;
 }
 
 .link-dark {
@@ -474,7 +474,7 @@ blockquote {
 }
 
 .graybg {
-    background-color: #fafafa;
+    background-color: #f2efe5;
     padding: 40px 0 46px;
     position: relative;
 }
@@ -551,7 +551,7 @@ ul.tags li a:hover {
     position: fixed;
     bottom: 0;
     left: 0;
-    background-color: #fff;
+    background-color: #f2efe5;
     width: 100%;
     padding: 14px 0;
     z-index: 1;
@@ -653,7 +653,7 @@ ul.tags li a:hover {
 
 .sociallinks a {
     background: #666;
-    color: #fff;
+    color: #f2efe5;
     width: 22px;
     height: 22px;
     display: inline-block;
@@ -759,7 +759,7 @@ iframe {
 
 .transpdark {
     background: rgba(0, 0, 0, 0.75);
-    color: #fff;
+    color: #f2efe5;
 }
 
 @media (min-width:768px) {
@@ -770,12 +770,12 @@ iframe {
         height: 350px;
         border-radius: 0;
         background-image: url(../images/jumbotron.jpg);
-        background-size: cover;
+        background-size: 5%;
     }
 
     .jumbotron.fortags .col-md-4 {
         background: rgba(0, 0, 0, 0.75);
-        color: #fff;
+        color: #f2efe5;
     }
 
     .jumbotron.fortags .row {
@@ -795,7 +795,7 @@ iframe {
     padding: 5px 10px 7px;
     background: #222;
     border-radius: 30px;
-    color: #fff;
+    color: #f2efe5;
     font-weight: 500;
     text-transform: lowercase;
     font-size: 0.8rem;
