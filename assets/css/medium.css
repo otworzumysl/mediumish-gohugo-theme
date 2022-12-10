@@ -285,6 +285,7 @@ span.post-read-more a:hover {
 .mediumnavigation .nav-item,
 .dropdown-menu {
     font-size: 0.9rem;
+    font-size: 1.9rem;
 }
 
 .mediumnavigation .search-icon {
@@ -295,7 +296,7 @@ span.post-read-more a:hover {
 }
 
 .mediumnavigation .navbar-brand img {
-    max-height: 30px;
+    max-height: 100px;
     margin-right: 5px;
 }
 
